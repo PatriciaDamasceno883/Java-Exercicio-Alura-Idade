@@ -7,7 +7,7 @@ package com.mycompany.idade;
 
 /**
  *
- * @author ailto
+ * @author Patricia Damasceno
  */
 public class Idade {
 
